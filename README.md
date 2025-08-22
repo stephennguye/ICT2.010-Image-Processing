@@ -35,6 +35,7 @@ Throughout the course, I explored and practiced:
 - `Labwork1/`, `Labwork2/`,... - Python scripts and exercises for specific topics.
 - `lw1_question/` - Labwork question.
 - `lw1_submission/` - My submission.
+- `TYCT-69345.jpg/` - Example image 
 
 ---
 
